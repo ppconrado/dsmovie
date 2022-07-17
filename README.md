@@ -1,5 +1,5 @@
-# dsmovie
-WEB app - frontend &amp; backend - list &amp; score movies
+# DSMovie - WEB App - frontend &amp; backend - list &amp; score movies
+
 
 ![ppconrado github img](https://raw.githubusercontent.com/ppconrado/bds-assets/master/img/DSMOVIE.png)
 
