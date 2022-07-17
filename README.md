@@ -471,8 +471,6 @@ const movie = {
 
 - **COMMIT: Navigation buttons**
 
-# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - Episódio 2
-
 > _FASE 2_
 
 ## Objetivos do projeto FASE 2
@@ -807,7 +805,7 @@ const config: AxiosRequestConfig = {
 
 - **COMMIT: Show score**
 
-> _PREPARAÇÃO_
+> _EXTRA (PREPARAÇÃO)_
 
 ## Guias de instalação das ferramentas
 
