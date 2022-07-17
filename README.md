@@ -1,36 +1,6 @@
 # dsmovie
 WEB app - frontend &amp; backend - list &amp; score movies
 
-> _PREPARAÇÃO_
-
-## Guias de instalação das ferramentas
-
-- [Guia de instalação das ferramentas no Windows](https://github.com/devsuperior/sds-dsmovie/tree/main/_instalacao/windows)
-- [Guia de instalação das ferramentas no Linux](https://github.com/devsuperior/sds-dsmovie/tree/main/_instalacao/linux)
-- [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds-dsmovie/tree/main/_instalacao/mac)
-
-## Conteúdos de preparação
-
-### 1) Super revisão de OO e SQL
-
-[![Image](https://img.youtube.com/vi/xC_yKw3MYX4/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/xC_yKw3MYX4)
-
-### 2) Git e Github para iniciantes
-
-[![Image](https://img.youtube.com/vi/KLG-jC1fh28/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/KLG-jC1fh28)
-
-### 3) Seu primeiro projeto Java web no Spring Boot
-
-[![Image](https://img.youtube.com/vi/D4frmIHAxEY/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/D4frmIHAxEY)
-
-### 4) JpaRepository: interface boladona do Spring
-
-[![Image](https://img.youtube.com/vi/jh_T5_o3qKE/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/jh_T5_o3qKE)
-
-### 5) ReactJS primeiros passos - Introdução Prática
-
-[![Image](https://img.youtube.com/vi/IOJoJGDowEY/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/IOJoJGDowEY)
-
 > _FASE 1_
 
 ## Objetivos do projeto FASE 1
@@ -837,3 +807,32 @@ const config: AxiosRequestConfig = {
 
 - **COMMIT: Show score**
 
+> _PREPARAÇÃO_
+
+## Guias de instalação das ferramentas
+
+- [Guia de instalação das ferramentas no Windows](https://github.com/devsuperior/sds-dsmovie/tree/main/_instalacao/windows)
+- [Guia de instalação das ferramentas no Linux](https://github.com/devsuperior/sds-dsmovie/tree/main/_instalacao/linux)
+- [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds-dsmovie/tree/main/_instalacao/mac)
+
+## Conteúdos de preparação
+
+### 1) Super revisão de OO e SQL
+
+[![Image](https://img.youtube.com/vi/xC_yKw3MYX4/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/xC_yKw3MYX4)
+
+### 2) Git e Github para iniciantes
+
+[![Image](https://img.youtube.com/vi/KLG-jC1fh28/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/KLG-jC1fh28)
+
+### 3) Seu primeiro projeto Java web no Spring Boot
+
+[![Image](https://img.youtube.com/vi/D4frmIHAxEY/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/D4frmIHAxEY)
+
+### 4) JpaRepository: interface boladona do Spring
+
+[![Image](https://img.youtube.com/vi/jh_T5_o3qKE/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/jh_T5_o3qKE)
+
+### 5) ReactJS primeiros passos - Introdução Prática
+
+[![Image](https://img.youtube.com/vi/IOJoJGDowEY/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/IOJoJGDowEY)
